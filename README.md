@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a developer that was trapped in legacy code for many years and now is starting to studying the current technologies.  
+My main language is PHP, working with Laravel in company projects.  
+I'm also develop apps with Flutter, and in the past with Java and Swift.  
+
+### How to reach me:
+LinkedIn: https://www.linkedin.com/in/marcelobruzetti/  
+Email: mbruzetti@gmail.com
+
+
 <!--
 **marcelobruzetti/marcelobruzetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
