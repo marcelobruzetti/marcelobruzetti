@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a developer that was trapped in legacy code for many years 😵‍💫 and now is studying the current technologies.  
-My main language is PHP, working with Laravel.
-I'm also develop apps with Flutter, and in the past with Java and Swift.
-Currently working with crawlers in NodeJS.
-Studying Go to develop a server for my own company.
+I'm a developer that was trapped in legacy code for many years 😵‍💫 and now is studying the current technologies.<br>
+My main language is PHP, working with Laravel.<br>
+I'm also develop apps with Flutter, and in the past with Java and Swift.<br>
+Currently working with crawlers in NodeJS.<br>
+Studying Go to develop a server for my own company.<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobruzetti&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
