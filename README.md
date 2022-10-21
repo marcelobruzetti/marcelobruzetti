@@ -6,7 +6,7 @@ I'm also develop apps with Flutter, and in the past with Java and Swift.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobruzetti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobruzetti&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobruzetti&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me:
 LinkedIn: https://www.linkedin.com/in/marcelobruzetti/  
