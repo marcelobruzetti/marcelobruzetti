@@ -16,13 +16,14 @@ Email: mbruzetti@gmail.com
 <div>
   <a href="http://php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" height="40"/></a>&nbsp;
-  <a href="https://go.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/></a>&nbsp;
+  <a href="https://go.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
   <a href="https://flutter.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.digitalocean.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/></a>&nbsp;
 </div>
 
 <!--
