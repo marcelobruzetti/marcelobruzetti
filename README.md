@@ -4,6 +4,8 @@ I'm a developer that was trapped in legacy code for many years and now is starti
 My main language is PHP, working with Laravel.
 I'm also develop apps with Flutter, and in the past with Java and Swift.  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobruzetti)](https://github.com/anuraghazra/github-readme-stats)
+
 ### How to reach me:
 LinkedIn: https://www.linkedin.com/in/marcelobruzetti/  
 Email: mbruzetti@gmail.com
