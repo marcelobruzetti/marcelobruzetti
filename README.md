@@ -22,7 +22,7 @@ Email: mbruzetti@gmail.com
   <a href="https://www.mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.digitalocean.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/></a>&nbsp;
 </div>
 
