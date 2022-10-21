@@ -14,7 +14,7 @@ Email: mbruzetti@gmail.com
 
 ### Languages and Tools :
 <div>
-  <a href="http://php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
+  <a href="http://php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/></a>&nbsp;
   <a href="https://go.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
