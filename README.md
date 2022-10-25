@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a developer who got stucked in legacy code for many years 😵‍💫 and now I am studying and applying new technologies.<br>
-My main language is PHP, working with Laravel.<br>
+💻 My main language is PHP, working with Laravel.<br>
 📱 I'm also develop apps with Flutter, and in the past with Java and Swift.<br>
 💻 Currently working with web crawlers in NodeJS.<br>
 📚 Studying Go to develop a server for my own company.<br>
